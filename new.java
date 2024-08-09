@@ -5,7 +5,7 @@ import java.lang.Math;
 import java.util.Scanner;
 
 // Driver class
-public class new {
+public class New {
 	// main function
 	public static void main(String[] args)
 	{
